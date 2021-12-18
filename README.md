@@ -13,7 +13,7 @@ Simpel WhatsApp Bot
 > pkg install imagemagick -y
 > git clone https://github.com/Lexxy24/BOTV7
 > cd BOTV7
-> npm start
+> node main
 ```
 
 ---------
