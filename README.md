@@ -36,7 +36,7 @@ Simpel WhatsApp Bot
 ## Run
 
 ```bash
-> node . [<session name>] (session name is optional)
+> node main
 ```
 
 #### Powered By : [`LexxyOFC`](https://api.whatsapp.com/send/?phone=62857890047322&text&app_absent=0)
